@@ -1,0 +1,10 @@
+requests==2.32.3 # for downloading datasets
+jupyter==1.1.1 # for ad-hoc analysis
+numpy==1.26.0 # for data crunching
+pandas==2.2.0 # for data crunching
+pandasql==0.7.3 # for data crunching
+matplotlib==3.10.3 # visualisation
+seaborn==0.13.2 # visualisation
+wordcloud==1.9.4 # word cloud visulisation
+stop-words==2018.7.23 # word cloud visulisation
+ipywidgets==8.1.7 # jupyter widgets
